@@ -1,6 +1,0 @@
-C:\src\gear-optimizer\ConsoleApplication1\FizzBuzz\bin\Debug\FizzBuzz.dll
-C:\src\gear-optimizer\ConsoleApplication1\FizzBuzz\bin\Debug\FizzBuzz.pdb
-C:\src\gear-optimizer\ConsoleApplication1\FizzBuzz\obj\Debug\FizzBuzz.dll
-C:\src\gear-optimizer\ConsoleApplication1\FizzBuzz\obj\Debug\FizzBuzz.pdb
-C:\src\gear-optimizer\ConsoleApplication1\FizzBuzz\obj\Debug\FizzBuzz.csprojResolveAssemblyReference.cache
-C:\src\gear-optimizer\ConsoleApplication1\FizzBuzz\bin\Debug\nunit.framework.dll
